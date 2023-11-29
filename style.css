@@ -1,0 +1,27 @@
+.container {
+    border: 10px solid red;
+    height: 1500px;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+img {
+    height: 300px;
+    width: 250px;
+    border-radius: 50%;
+}
+.image {
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.heading {
+font-size: 75px;
+font-style: normal;
+padding-top: -100px;
+padding-left: 500px;
+margin-top: -275px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 
+}
